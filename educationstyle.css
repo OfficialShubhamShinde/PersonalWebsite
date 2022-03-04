@@ -1,0 +1,18 @@
+.table{
+    background-color: black;
+    color: antiquewhite;
+  }
+  body{
+    background-color: black;
+    color: antiquewhite;
+  }
+  .resume a{
+    font-size: 45px;
+    text-decoration: none;
+    color: antiquewhite;
+    background-color: black;
+    margin-left: 35%;
+    border: 2px solid;
+    border-style: solid;
+    border-radius: 10px;
+  }

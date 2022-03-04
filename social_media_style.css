@@ -1,0 +1,41 @@
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-color: black;
+    color: antiquewhite;
+  }
+  .facebook{
+    border: solid;
+    border-radius: black;
+    position: relative;
+    margin-right: 75%;
+   }
+  .instagram{
+    /* border: solid;
+    border-radius: black; */
+    border: solid;
+    border-radius: black;
+    /* position: relative;
+    left:320px;
+    bottom: 500px;
+    margin-right: 75%  */
+  }
+  .twitter{
+    border: solid;
+    border-radius: black;
+    /* position: relative;
+    left:640px;
+    bottom: 986px;
+    margin-right: 75% */
+  }
+  .linkdin{
+    border: solid;
+    border-radius: black;
+    /* position: relative;
+    left:960px;
+    bottom: 1495px;
+    margin-right: 75% */
+  }
